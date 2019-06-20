@@ -38,8 +38,5 @@ module.exports = {
         use: ['handlebars-loader']
       }
     ]
-  },
-  resolve: {
-    extensions: ['.js', '.jsx']
   }
 };
